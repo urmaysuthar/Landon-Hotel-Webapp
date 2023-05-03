@@ -5,17 +5,24 @@ The project above can be illustrated through the following steps:
 
 ### Step 1: Setting up the Landon Hotel Website using basic HTML, CSS and Javascript components.
 
+![Landon Hotel](/src/LandonProjectAssets/Landonhotel.png)
+
 ### Step 2: Implementing React to replace HTML and Javascript components for dynamic loading.
 
 ### Step 3: Hosting the web app on a cloud service platform - AWS - using AWS Amplify
+
+![AWS Amplify](src/LandonProjectAssets/AWS.png)
 
 ### Step 4: Replacing Data held in HTML with JSON components.
 
 ### Step 5: Implementing DynamoDB to store data - AWS.
 
+![DynamoDB](src/LandonProjectAssets/Dynamo.png)
+
 ### Step 6: Implementing Lambda functions and REST API Gateway for seamless servicing between Frontend and Backend.
 
-
+![Lambda](src/LandonProjectAssets/Lambda.png)
+![RESTAPI](src/LandonProjectAssets/RESTAPI.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
