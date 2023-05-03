@@ -7,6 +7,15 @@ The project above can be illustrated through the following steps:
 
 ### Step 2: Implementing React to replace HTML and Javascript components for dynamic loading.
 
+### Step 3: Hosting the web app on a cloud service platform - AWS - using AWS Amplify
+
+### Step 4: Replacing Data held in HTML with JSON components.
+
+### Step 5: Implementing DynamoDB to store data - AWS.
+
+### Step 6: Implementing Lambda functions and REST API Gateway for seamless servicing between Frontend and Backend.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
