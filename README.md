@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Landon Hotel Webapp 
+## HTML, CSS, JavaScript, React, AWS, AWS Lambda, REST APIs, DynamoDB, JSON
+
+The project above can be illustrated through the following steps:
+
+### Step 1: Setting up the Landon Hotel Website using basic HTML, CSS and Javascript components.
+
+### Step 2: Implementing React to replace HTML and Javascript components for dynamic loading.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
